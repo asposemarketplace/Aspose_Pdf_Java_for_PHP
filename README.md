@@ -8,8 +8,8 @@ Project Aspose.Pdf for PHP shows how different tasks can be performed using Aspo
 * Downloaded Aspose.Pdf component.
 
 ### Supported Platforms
-* PHP 5.3 or above
-* Java 1.8 or above
+* PHP 5.3 or above 
+* Java 1.8 or above 
 
 #### Configure Aspose.Pdf Java for PHP Examples
 ##### Method 1
